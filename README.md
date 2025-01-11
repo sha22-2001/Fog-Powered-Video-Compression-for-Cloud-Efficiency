@@ -15,29 +15,29 @@ A cutting-edge solution to address human-wildlife conflicts in rural areas by in
 
 ---
 
-## Technologies Used
+## System Workflow
 
-- **YOLOv8**: For object detection and activity identification.
-- **Python**: Core programming language.
-- **Socket Programming**: For client-server communication.
-- **Fog Computing**: Data processing near the source.
-- **Encryption & Compression**: Ensures secure and efficient data transmission.
+### Video Demonstration
+
+![Video Demonstration](path/to/video-placeholder.png)  
+**[Click to watch the video](https://github.com/yourusername/smart-wildlife-security/blob/main/assets/video/demo.mp4)**  
 
 ---
 
-## System Workflow
+## System Architecture
 
-### 1. Video Capture and Frame Extraction
-1. Capture video and convert into frames.
-2. Detect objects in each frame using YOLOv8.
-3. Track objects and generate trimmed videos with only relevant activities.
-4. Enhance security by applying encryption before transmission.
+![System Architecture](assets/diagrams/architecture.png)  
+*This image illustrates the entire workflow of the system, including data capture, compression, and transmission.*
 
-### 2. Data Transmission
-1. Encrypt and compress the data.
-2. Transmit compressed data to the server.
-3. Decrypt and extract the data on the server for storage and analysis.
-4. Generate a report summarizing key findings.
+---
+
+## Time Complexity Analysis
+
+### Graph 1: Compression Algorithm Time Complexity
+![Compression Algorithm Time Complexity](assets/diagrams/compression-time-complexity.png)
+
+### Graph 2: Object Detection Time Complexity
+![Object Detection Time Complexity](assets/diagrams/object-detection-time-complexity.png)
 
 ---
 
