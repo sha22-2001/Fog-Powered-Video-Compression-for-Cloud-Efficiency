@@ -19,8 +19,8 @@ A cutting-edge solution to address human-wildlife conflicts in rural areas by in
 
 ### Video Demonstration
 
-![Video Demonstration](https://drive.google.com/file/d/1c4fHZHJXV_PQTcreeRpB7k71n5adNZK5/view?usp=sharing)  
-**[Click to watch the video](https://github.com/yourusername/smart-wildlife-security/blob/main/assets/video/demo.mp4)**  
+[![Video Demonstration](https://img.youtube.com/vi/Hk0J8_5-sB0/0.jpg)](https://www.youtube.com/watch?v=Hk0J8_5-sB0)  
+**[Click to watch the video on YouTube](https://www.youtube.com/watch?v=Hk0J8_5-sB0)**  
 
 ---
 
